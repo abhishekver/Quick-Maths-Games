@@ -1,0 +1,123 @@
+body {
+    font-family: Arial;
+    background: aliceblue;
+}
+.italic {
+    visibility: hidden;
+}
+
+.lev:hover, .op:hover   {
+    opacity: 1;
+    zoom: 1.2;
+}
+
+.lev    {
+    border: 1px dodgerblue dotted;
+    border-radius: 10px;
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    background:greenyellow;
+}
+
+#fit, .fic {
+    visibility: hidden;
+}
+button:list {
+    width: 90px;
+    height: 25px;
+    border: solid black 1px;
+    border-radius: 0;
+    background-color: #e6e6e6;
+}
+button:hover:list{
+    border: solid #e6e6e6 2px;
+    background-color: black;
+    color: white;
+}
+#time {
+    width: 65px;
+    height: 65px;
+    border: solid black 1px;
+    background-color: #e6e6e6;
+    float: right;
+    font-size: 43px;
+}
+#headt {
+    font-size: 36px;
+}
+#write {
+    width: 200px;
+    height: 32px;
+    background-color: #e6e6e6;
+    border: solid black 1px;
+    font-size: 20px;
+    text-align: center;
+}
+#eno {
+    border-bottom: solid black 1px;
+}
+.list {
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: #666;
+    border: solid black 1px;
+    border-radius: 2px;
+    margin: 17px;
+    font-size: 18px;
+    text-align: middle;
+}
+#exit {
+    width: 80px;
+    height: 40px;
+    background-color: #333;
+    border: solid black 1px;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+#apreciation {
+    font-weight: bold;
+    font-size: 19px;
+}
+#coolguy {
+    font-size: 15px
+}
+
+.op {
+    border: 1px coral solid;
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    background: beige;
+    border-radius: 10px;
+}
+
+#mes    {
+    font-size: 200%;
+    color: blueviolet;
+}
+
+#ht {
+    font-size: 400%;
+    color: chocolate;
+}
+
+.but    {
+    margin: 15px;
+    width: 240px;
+    height: 45px;
+    border-radius: 15px;
+    font-size: 120%;
+    background: aquamarine;
+    color: #ff0022;
+}
+
+.list   {
+    color: rgb(30, 131, 44);
+    background: burlywood ;
+}
